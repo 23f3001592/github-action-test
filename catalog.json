@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "email": "23f3004501@ds.study.iitm.ac.in",
+    "version": "5940bfa8"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Product name",
+      "category": "clothing",
+      "price": 100,
+      "stock": 10,
+      "rating": 4.5
+    }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 5,
+      "inventoryValue": 169595.65
+    }
+  }
+}
