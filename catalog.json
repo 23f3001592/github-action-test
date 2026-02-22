@@ -4,14 +4,29 @@
     "version": "5940bfa8"
   },
   "products": [
-    {
-      "id": 1,
-      "name": "Product name",
-      "category": "clothing",
-      "price": 100,
-      "stock": 10,
-      "rating": 4.5
-    }
+    {"id":1,"name":"T-Shirt Classic","category":"clothing","price":1999.99,"stock":10,"rating":4.2},
+    {"id":2,"name":"Denim Jeans","category":"clothing","price":3499.5,"stock":12,"rating":4.5},
+    {"id":3,"name":"Hoodie Pro","category":"clothing","price":4599.99,"stock":8,"rating":4.4},
+    {"id":4,"name":"Formal Shirt","category":"clothing","price":2999.99,"stock":9,"rating":4.1},
+    {"id":5,"name":"Jacket Winter","category":"clothing","price":5999.99,"stock":9,"rating":4.6},
+
+    {"id":6,"name":"Laptop X","category":"electronics","price":65000,"stock":5,"rating":4.7},
+    {"id":7,"name":"Smartphone A","category":"electronics","price":22000,"stock":15,"rating":4.3},
+    {"id":8,"name":"Headphones","category":"electronics","price":2999,"stock":20,"rating":4.2},
+    {"id":9,"name":"Bluetooth Speaker","category":"electronics","price":3499,"stock":14,"rating":4.0},
+
+    {"id":10,"name":"Office Chair","category":"furniture","price":8500,"stock":6,"rating":4.3},
+    {"id":11,"name":"Study Table","category":"furniture","price":12000,"stock":4,"rating":4.1},
+    {"id":12,"name":"Sofa Set","category":"furniture","price":35000,"stock":2,"rating":4.6},
+
+    {"id":13,"name":"Coffee Mug","category":"home","price":399,"stock":40,"rating":4.0},
+    {"id":14,"name":"Wall Clock","category":"home","price":899,"stock":18,"rating":4.2},
+    {"id":15,"name":"Bed Sheet","category":"home","price":1499,"stock":25,"rating":4.1},
+
+    {"id":16,"name":"Notebook Pack","category":"stationery","price":299,"stock":50,"rating":4.3},
+    {"id":17,"name":"Pen Set","category":"stationery","price":199,"stock":70,"rating":4.0},
+    {"id":18,"name":"Backpack","category":"bags","price":2499,"stock":16,"rating":4.4},
+    {"id":19,"name":"Travel Bag","category":"bags","price":4599,"stock":7,"rating":4.2}
   ],
   "aggregations": {
     "clothing": {
